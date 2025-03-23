@@ -13,7 +13,7 @@ a {
 
 .container {
   width: 100%;
-  padding: 0 10px;
+  padding: 0 auto;
   margin: 0 auto;
 }
 
@@ -21,7 +21,7 @@ a {
   padding: 180px 0 100px 0;
   background-image: url(top.png);
   background-size: cover;
-  color: white;
+  color: black;
   text-align: center;
 }
 
