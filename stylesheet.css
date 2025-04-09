@@ -138,6 +138,10 @@ header {
   color: white;
 }
 
+.lesson-icon img {
+  width: 25%;
+}
+
 .text-contents {
   width: 80%;
   display: inline-block;
